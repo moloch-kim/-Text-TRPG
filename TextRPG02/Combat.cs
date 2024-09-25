@@ -15,14 +15,16 @@ namespace TextRPG02
         public void Attack(Player player, Enemy enemy)
         {
             int playerAttackRoll = Dice.Roll(20) + player.StrengthModifier;
+            Console.WriteLine();
             Console.WriteLine($"당신의 공격 굴림 : {playerAttackRoll}");
-
+            Thread.Sleep(500);
             if (playerAttackRoll == 20)
             {
                 Console.WriteLine("공격이 명중했습니다!");
                 int damage = Dice.RollMultiple(2, player.ATK) + (player.StrengthModifier * 2);
                 enemy.Health -= damage;
                 Console.WriteLine("정말 치명적인 일격이였습니다!!");
+                Thread.Sleep(500);
                 Console.WriteLine($"{enemy.Name}에게 {damage}의 피해를 입혔습니다! (적 체력: {enemy.Health})");
             }
             else if (playerAttackRoll == 1)
@@ -41,6 +43,7 @@ namespace TextRPG02
                         Console.WriteLine($"{player.Name} : 어... 지금 공격해야 했었던건가?");
                         break;
                 }
+                Thread.Sleep(500);
                 Console.WriteLine("공격이 빗나가고 말았습니다!");
 
             }
@@ -49,16 +52,19 @@ namespace TextRPG02
                 Console.WriteLine("공격이 명중했습니다!");
                 int damage = Dice.RollMultiple(1, player.ATK) + player.StrengthModifier;
                 enemy.Health -= damage;
+                Thread.Sleep(500);
                 Console.WriteLine($"{enemy.Name}에게 {damage}의 피해를 입혔습니다! (적 체력: {enemy.Health})");
             }
             else
             {
                 Console.WriteLine("공격이 빗나가고 말았습니다!");
+                Console.WriteLine($"(적 체력: {enemy.Health})");
             }
+            Console.WriteLine();
         }
-
         public void EnemyAttack(Player player , Enemy enemy)
         {
+
             int enemyAttackRoll = Dice.Roll(20) + enemy.StrengthModifier;
             Console.WriteLine($"적의 공격 굴림 : {enemyAttackRoll}");
 
@@ -119,20 +125,21 @@ namespace TextRPG02
 
         public void combat(Player player, Enemy enemy)
         {
+
             isCombat = true;
             
             while (isCombat)
             {
-                if (player.Health <= 0 || enemy.Health <= 0)
-                {
-                    isCombat = false;
-                }
-
+                Console.WriteLine();
+                Console.WriteLine("--------------------------------------------------------------------");
+                Console.WriteLine($"체력 : {player.Health}  ,  마력 : {player.Magicka} ");
+                Console.WriteLine("--------------------------------------------------------------------");
                 Console.WriteLine("뭘 하시겠습니까?:");
                 Console.WriteLine("1. 공격");
                 Console.WriteLine("2. 아이템 사용");
                 Console.WriteLine("3. 도망가기");
-
+                Console.WriteLine("--------------------------------------------------------------------");
+                Console.WriteLine();
                 string input = Console.ReadLine() ?? "";
 
                 switch(input)
@@ -154,16 +161,25 @@ namespace TextRPG02
                         Console.WriteLine("잘못된 입력입니다.");
                         break;
                 }
-                EnemyAttack(player, enemy);
+
 
                 if (player.Health <= 0)
                 {
                     Console.WriteLine("사망했습니다....");
+                    Console.WriteLine();
+                    isCombat = false;
                 }
 
                 if (enemy.Health <= 0)
                 {
                     Console.WriteLine("적을 쓰러트렸습니다!");
+                    Console.WriteLine();
+                    isCombat = false;
+                }
+
+                if (isCombat)
+                {
+                    EnemyAttack(player, enemy);
                 }
 
             }

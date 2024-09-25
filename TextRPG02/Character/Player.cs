@@ -19,7 +19,9 @@ namespace TextRPG02.Character
         public IClass Class { get; set; }
         public float Health { get; set; }
         public float Magicka { get; set; }
+        //
         public int Level { get; set; }
+        public int Exp {  get; set; }
         //
         public int Strength { get; set; }
         public int Agility { get; set; }
@@ -38,6 +40,8 @@ namespace TextRPG02.Character
         public int Gold { get; set; }
 
         public List<IItem> Inventory { get; set; }
+
+        
 
         public Player(string name, IRace race, IClass classtype, int level)
         {

@@ -14,8 +14,8 @@ namespace TextRPG02.Class
         {
             DefaultItems = new List<IItem>
             {
-                ItemRepository.GetItemByName("롱소드"),
-                ItemRepository.GetItemByName("사슬갑옷")
+                ItemRepository.GetItemByName("단검"),
+                ItemRepository.GetItemByName("가죽 갑옷")
             };
         }
         public void ApplyClassStats(ICharacter character)

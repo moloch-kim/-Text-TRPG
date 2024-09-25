@@ -204,13 +204,14 @@ namespace TextRPG02
 
             int level = 1;
             int currentStage = 0;
-            Console.Clear();
             // 캐릭터 생성
             Player player = new Player(characterName, selectedRace, selectedClass, level);
+            Console.WriteLine();
             Console.WriteLine("--------------------------------------------------------------------");
             Console.WriteLine("부귀영화를 누리기위해? 아니면 그저 모험심이 뛰어난 탓일까요?");
             Console.WriteLine("어떤이유이던지간에, 당신은 던전으로 모험을 떠납니다.");
             Console.WriteLine("--------------------------------------------------------------------");
+            Console.WriteLine();
             Shop shop = new Shop(eShop.Startshop);
 
             bool isIntro = true;

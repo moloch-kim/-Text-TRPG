@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj": {}
   },
   "projects": {
-    "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj": {
+    "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj",
         "projectName": "TextRPG02",
-        "projectPath": "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Ai\\-Text-TRPG\\TextRPG02\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
