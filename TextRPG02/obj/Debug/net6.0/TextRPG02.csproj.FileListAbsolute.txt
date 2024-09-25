@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.AssemblyInfo.cs
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\bin\Debug\net6.0\TextRPG02.exe
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\bin\Debug\net6.0\TextRPG02.deps.json
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\bin\Debug\net6.0\TextRPG02.runtimeconfig.json
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\bin\Debug\net6.0\TextRPG02.dll
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\bin\Debug\net6.0\TextRPG02.pdb
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.dll
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\refint\TextRPG02.dll
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.pdb
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\TextRPG02.genruntimeconfig.cache
+C:\Users\USER\source\repos\TextRPG02\TextRPG02\obj\Debug\net6.0\ref\TextRPG02.dll
