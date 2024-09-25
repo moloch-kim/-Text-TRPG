@@ -39,7 +39,7 @@ namespace TextRPG02.Character
 
         public Enemy(string name, IRace race, IClass classtype, int level)
         {
-            Name = null;
+            Name = $"{race.RaceName} {classtype.ClassName}";
             Race = race;
             Class = classtype;
             Level = level;
@@ -52,12 +52,22 @@ namespace TextRPG02.Character
             Race.ApplyRaceStats(this);
             Class.ApplyClassStats(this);
 
+            IncountertText();
+
             // Enemy만의 추가 설정
+        }
+
+        public void IncountertText()
+        {
+            Console.WriteLine("--------------------------------------------------------------------");
+            Console.WriteLine($"{Name} 을(를) 마주쳤습니다!");
+            Console.WriteLine("--------------------------------------------------------------------");
+            Console.WriteLine();
         }
 
         public void DisplayCharacterInfo()
         {
-            Console.WriteLine($"[NPC] 이름: {Name}");
+            Console.WriteLine($"이름 : {Name} ");
             Console.WriteLine($"종족: {Race.RaceName}, 클래스: {Class.ClassName}");
             Console.WriteLine($"레벨: {Level}");
             Console.WriteLine($"체력: {Health}, 마력: {Magicka}");

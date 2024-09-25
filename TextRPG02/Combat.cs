@@ -8,6 +8,7 @@ using TextRPG02.Character;
 
 namespace TextRPG02
 {
+
     public class Combat
     {
         public bool isCombat = false;
@@ -119,25 +120,25 @@ namespace TextRPG02
         public void combat(Player player, Enemy enemy)
         {
             isCombat = true;
-
-
+            
             while (isCombat)
             {
-                if (player.Health > 0 && enemy.Health > 0)
+                if (player.Health <= 0 || enemy.Health <= 0)
+                {
                     isCombat = false;
+                }
+
                 Console.WriteLine("뭘 하시겠습니까?:");
                 Console.WriteLine("1. 공격");
                 Console.WriteLine("2. 아이템 사용");
                 Console.WriteLine("3. 도망가기");
 
-                string input = Console.ReadLine();
+                string input = Console.ReadLine() ?? "";
 
                 switch(input)
                 {
                     case "1":
-
                         Attack(player, enemy);
-
                         break;
                     case "2":
 
@@ -153,6 +154,7 @@ namespace TextRPG02
                         Console.WriteLine("잘못된 입력입니다.");
                         break;
                 }
+                EnemyAttack(player, enemy);
 
                 if (player.Health <= 0)
                 {

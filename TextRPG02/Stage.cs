@@ -137,7 +137,7 @@ namespace TextRPG02
 
         }
 
-        public Enemy RandomEnemy(Enemy enemy)
+        public void RandomEnemy(out Enemy enemy)
         {
             IRace Erace = null;
             IClass Eclass = null;
@@ -176,9 +176,9 @@ namespace TextRPG02
                     break;
             }
 
-            Enemy Eenemy = new Enemy("적",Erace,Eclass,StageNumber);
+            enemy = new Enemy("적",Erace,Eclass,StageNumber);
 
-            return Eenemy;
+            
 
 
             
@@ -211,9 +211,10 @@ namespace TextRPG02
             Console.ReadLine();
             Console.Clear();
 
-            Combat combat = new Combat();
-            Enemy enemy = null;
-            RandomEnemy(enemy);
+            Combat combat = new();
+            //Enemy enemy = null;
+            RandomEnemy(out Enemy enemy);
+
             combat.combat(player, enemy);
 
             // 전투 로직 구현

@@ -216,6 +216,7 @@ namespace TextRPG02
             bool isIntro = true;
             while (isIntro)
             {
+
                 Console.WriteLine("무엇을 하시겠습니까?");
                 Console.WriteLine("a. 상점 방문");
                 Console.WriteLine("i. 인벤토리 확인 및 아이템 사용");
