@@ -1,125 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\TextRPG02\\",
+  "WorkspaceRootPath": "C:\\Ai\\-Text-TRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\bard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\bard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\warlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\warlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\ranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\ranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\interface\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\interface\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\bard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\bard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\warlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\warlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\ranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\ranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\interface\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\interface\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\race\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\race\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\race\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\race\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\race\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\race\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\nonplayerclass\\npshaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\nonplayerclass\\npshaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\nonplayerclass\\npshaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\nonplayerclass\\npscoundrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\nonplayerclass\\npscoundrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\nonplayerclass\\npscoundrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\nonplayerclass\\npraider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\nonplayerclass\\npraider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\nonplayerclass\\npraider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\textrpg02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\textrpg02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\textrpg02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\character\\interface\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\character\\interface\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\character\\interface\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\interface\\iequippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\interface\\iequippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\interface\\iequippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\item\\interface\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\item\\interface\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\item\\interface\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\class\\nonplayerclass\\npweakling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\class\\nonplayerclass\\npweakling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\class\\nonplayerclass\\npweakling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\race\\nonplayerrace\\npgoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\race\\nonplayerrace\\npgoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\race\\nonplayerrace\\npgoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\users\\user\\source\\repos\\textrpg02\\textrpg02\\race\\interface\\irace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|c:\\ai\\-text-trpg\\textrpg02\\race\\interface\\irace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3335914D-751C-49B9-8644-65C67DB0BF35}|TextRPG02\\TextRPG02.csproj|solutionrelative:textrpg02\\race\\interface\\irace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -130,41 +130,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Dice.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Dice.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Dice.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Dice.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Dice.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Dice.cs",
               "RelativeToolTip": "TextRPG02\\Dice.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T03:12:45.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T03:12:45.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Combat.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Combat.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Combat.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Combat.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Combat.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Combat.cs",
               "RelativeToolTip": "TextRPG02\\Combat.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAwwLcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T03:11:55.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T03:11:55.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "IEquippable.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Interface\\IEquippable.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Interface\\IEquippable.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Item\\Interface\\IEquippable.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Interface\\IEquippable.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Interface\\IEquippable.cs",
               "RelativeToolTip": "TextRPG02\\Item\\Interface\\IEquippable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "Stage.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Stage.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Stage.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Stage.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Stage.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Stage.cs",
               "RelativeToolTip": "TextRPG02\\Stage.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAgwGcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "NpWeakling.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
               "RelativeToolTip": "TextRPG02\\Class\\NonPlayerClass\\NpWeakling.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "NpShaman.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
               "RelativeToolTip": "TextRPG02\\Class\\NonPlayerClass\\NpShaman.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvx4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "NpScoundrel.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
               "RelativeToolTip": "TextRPG02\\Class\\NonPlayerClass\\NpScoundrel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvx8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,76 +219,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Wizard.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Wizard.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Wizard.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\Wizard.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Wizard.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Wizard.cs",
               "RelativeToolTip": "TextRPG02\\Class\\Wizard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:39:23.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Warlock.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Warlock.cs",
-              "RelativeDocumentMoniker": "TextRPG02\\Class\\Warlock.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Warlock.cs",
-              "RelativeToolTip": "TextRPG02\\Class\\Warlock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:39:14.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:39:23.666Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Rogue.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Rogue.cs",
-              "RelativeDocumentMoniker": "TextRPG02\\Class\\Rogue.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Rogue.cs",
-              "RelativeToolTip": "TextRPG02\\Class\\Rogue.cs",
+              "Title": "Warlock.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Warlock.cs",
+              "RelativeDocumentMoniker": "TextRPG02\\Class\\Warlock.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Warlock.cs",
+              "RelativeToolTip": "TextRPG02\\Class\\Warlock.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:39:05.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:39:14.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Ranger.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Ranger.cs",
-              "RelativeDocumentMoniker": "TextRPG02\\Class\\Ranger.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Ranger.cs",
-              "RelativeToolTip": "TextRPG02\\Class\\Ranger.cs",
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Rogue.cs",
+              "RelativeDocumentMoniker": "TextRPG02\\Class\\Rogue.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Rogue.cs",
+              "RelativeToolTip": "TextRPG02\\Class\\Rogue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:38:52.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:39:05.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Ranger.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Ranger.cs",
+              "RelativeDocumentMoniker": "TextRPG02\\Class\\Ranger.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Ranger.cs",
+              "RelativeToolTip": "TextRPG02\\Class\\Ranger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:38:52.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bard.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Bard.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Bard.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\Bard.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Bard.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Bard.cs",
               "RelativeToolTip": "TextRPG02\\Class\\Bard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:31:17.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:31:17.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "NpGoblin.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
               "RelativeToolTip": "TextRPG02\\Race\\NonPlayerRace\\NpGoblin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "NpRaider.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
               "RelativeToolTip": "TextRPG02\\Class\\NonPlayerClass\\NpRaider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,63 +303,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Fighter.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Fighter.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Fighter.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\Fighter.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Fighter.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Fighter.cs",
               "RelativeToolTip": "TextRPG02\\Class\\Fighter.cs",
               "ViewState": "AQIAAAEAAADoLzMzMzMXwBEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:48:41.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Potion.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Potion.cs",
-              "RelativeDocumentMoniker": "TextRPG02\\Item\\Potion.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Potion.cs",
-              "RelativeToolTip": "TextRPG02\\Item\\Potion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:13:30.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\ItemRepository.cs",
-              "RelativeDocumentMoniker": "TextRPG02\\Item\\ItemRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\ItemRepository.cs",
-              "RelativeToolTip": "TextRPG02\\Item\\ItemRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:10:15.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T07:48:41.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Potion.cs",
+              "RelativeDocumentMoniker": "TextRPG02\\Item\\Potion.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Potion.cs",
+              "RelativeToolTip": "TextRPG02\\Item\\Potion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:13:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "TextRPG02\\Item\\ItemRepository.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\ItemRepository.cs",
+              "RelativeToolTip": "TextRPG02\\Item\\ItemRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:10:15.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Armor.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Armor.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Armor.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Item\\Armor.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Armor.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Armor.cs",
               "RelativeToolTip": "TextRPG02\\Item\\Armor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:03:35.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T07:03:35.68Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Shop.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Shop.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Shop.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Shop.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Shop.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Shop.cs",
               "RelativeToolTip": "TextRPG02\\Shop.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,9 +365,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Weapon.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Weapon.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Item\\Weapon.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Weapon.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Weapon.cs",
               "RelativeToolTip": "TextRPG02\\Item\\Weapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,9 +377,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "IItem.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Interface\\IItem.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Interface\\IItem.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Item\\Interface\\IItem.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Item\\Interface\\IItem.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Item\\Interface\\IItem.cs",
               "RelativeToolTip": "TextRPG02\\Item\\Interface\\IItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,24 +387,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IClass.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Interface\\IClass.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Interface\\IClass.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Class\\Interface\\IClass.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Class\\Interface\\IClass.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Class\\Interface\\IClass.cs",
               "RelativeToolTip": "TextRPG02\\Class\\Interface\\IClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:39:06.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:39:06.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Elf.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Elf.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Elf.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Race\\Elf.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Elf.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Elf.cs",
               "RelativeToolTip": "TextRPG02\\Race\\Elf.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,9 +413,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Human.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Human.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Human.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Race\\Human.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Human.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Human.cs",
               "RelativeToolTip": "TextRPG02\\Race\\Human.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,9 +425,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "IRace.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Interface\\IRace.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Interface\\IRace.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Race\\Interface\\IRace.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Race\\Interface\\IRace.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Race\\Interface\\IRace.cs",
               "RelativeToolTip": "TextRPG02\\Race\\Interface\\IRace.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,24 +435,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Enemy.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Enemy.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Character\\Enemy.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Enemy.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Enemy.cs",
               "RelativeToolTip": "TextRPG02\\Character\\Enemy.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:33:35.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:33:35.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ICharacter.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Interface\\ICharacter.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Interface\\ICharacter.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Character\\Interface\\ICharacter.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Interface\\ICharacter.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Interface\\ICharacter.cs",
               "RelativeToolTip": "TextRPG02\\Character\\Interface\\ICharacter.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,24 +459,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Player.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Player.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Character\\Player.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Character\\Player.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Character\\Player.cs",
               "RelativeToolTip": "TextRPG02\\Character\\Player.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAA7wCsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:31:08.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:31:08.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "TextRPG02.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj",
               "RelativeDocumentMoniker": "TextRPG02\\TextRPG02.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\TextRPG02.csproj",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\TextRPG02.csproj",
               "RelativeToolTip": "TextRPG02\\TextRPG02.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -497,13 +483,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Program.cs",
+              "DocumentMoniker": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Program.cs",
               "RelativeDocumentMoniker": "TextRPG02\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\TextRPG02\\TextRPG02\\Program.cs",
+              "ToolTip": "C:\\Ai\\-Text-TRPG\\TextRPG02\\Program.cs",
               "RelativeToolTip": "TextRPG02\\Program.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAAUwNUAAAAgAAAA",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAUwLgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T06:27:10.629Z",
               "EditorCaption": ""

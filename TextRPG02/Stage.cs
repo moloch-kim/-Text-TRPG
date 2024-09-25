@@ -122,11 +122,11 @@ namespace TextRPG02
             {
                 EncounterEnemy(player);
             }
-            else if (eventChance <= 30)
+            else if (eventChance <= 70)
             {
                 FindShop(player);
             }
-            else if (eventChance <= 10)
+            else if (eventChance <= 90)
             {
                 FindItem(player);
             }
@@ -178,10 +178,6 @@ namespace TextRPG02
 
             enemy = new Enemy("적",Erace,Eclass,StageNumber);
 
-            
-
-
-            
 
         }
 
